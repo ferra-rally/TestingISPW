@@ -1,0 +1,6 @@
+org.apache.avro.io.BinaryDecoder
+org.apache.avro.Schema
+org.apache.bookkeeper.client.BookKeeperAdmin
+org.apache.bookkeeper.client.LedgerHandle
+org.apache.jcs.JCSUniTest
+org.apache.jcs.RemovalTestUtil
